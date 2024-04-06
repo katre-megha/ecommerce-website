@@ -1,0 +1,25 @@
+
+  .red-background {
+    background-color: red;
+    display: flex;
+    align-items: center;
+  }
+
+  .white-text {
+    color: white;
+    margin-left: 10px; /* Adjust as needed */
+  }
+
+.bg-darkblue {
+    background-color: darkblue;
+    color: white; /* Text color for better contrast */
+}
+
+.text-darkblue {
+    color: darkblue;
+    
+}
+
+.element {
+    filter: brightness(10%); /* Adjust the percentage value to make it darker */
+  }
